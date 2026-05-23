@@ -1,5 +1,5 @@
-# Project: BlenderCLIrender
-A Blender addon for batch rendering via command line launcher.
+# Project: ACTimer
+Arduino/PlatformIO project for an AC timer controller running on ESP8266 (Wemos D1 Mini Lite).
 
 # My Working Preferences
 
